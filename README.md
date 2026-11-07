@@ -1,3 +1,3 @@
 
 # simple-calculator
-A simple web-based calculator build using Python.
+A simple web-based calculator, main.python 
